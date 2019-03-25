@@ -16,6 +16,4 @@ h1 {
     background-color: rebeccapurple;
     font-family: sans-serif;
     }
-.form{
-    float center;
-}
+    @media screen and (max-width: 768px) 
