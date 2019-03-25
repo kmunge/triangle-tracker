@@ -23,5 +23,9 @@ h1 {
     
     .section-1 {
         background: #063647;
+        
     }
+    .form(
+        float: center;
+    )
     @media screen and (max-width: 768px) 
