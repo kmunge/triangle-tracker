@@ -8,7 +8,14 @@
 * text editor
 * browser
 * HTML,CSS,JAVASCRIPT language
-* BDD
+## BDD
+|Behaviour                                     | Input                                              |  Output                                       |
+|---------------------------------------------:|:--------------------------------------------------:|:----------------------------------------------|
+|   All sides are equal                        |     side A = side B = side C                       |       Equilateral triangle                    |
+|    Two sides are equal                       |      side A = side B != side C                     |        Isosceles triangle                     |
+|    All sides are not equal                   |      side A != side B !=side C                     |        scalene triangle                       |
+|    two side are greater than the third side  |      side A=10 side B = 6 side C = 3               |        scalene triangle                       |
+|    two sides less than the third side        |      side A =4 side B = 3 side C = 9               |        triangle                               |
 {The site will fetch user input data, checks whether it qualifies to form a triangle and returns what type of triangle,you will need a hosting space and a registered domain }
 ## Known Bugs
 {when entering eg. x,6,6 it gives feed back of triangle being scalene ,we are working to resolve the error}
