@@ -16,4 +16,12 @@ h1 {
     background-color: rebeccapurple;
     font-family: sans-serif;
     }
+    section{
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+    
+    .section-1 {
+        background: #063647;
+    }
     @media screen and (max-width: 768px) 
