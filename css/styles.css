@@ -13,7 +13,7 @@ h1 {
     color: blue
   }
   body{
-    background-color: rebeccapurple;
+    background-color: transparent;
     font-family: sans-serif;
     }
     section{
@@ -28,4 +28,15 @@ h1 {
     .form(
         float: center;
     )
+    a.nav-item {
+        color: rgba(211, 236, 19, 0.712);
+    }
+    
+    a.nav-item:hover {
+        color: rgba(211, 236, 19, 0.712);
+    }
+    .box {
+        background-color: transparent;
+        border: 2px solid rgba(7, 59, 79, 0.5);
+    }
     @media screen and (max-width: 768px) 
