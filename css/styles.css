@@ -1,0 +1,18 @@
+h1 {
+    color : rgba(170, 197, 19, 0.712);
+    font-size: 60px ;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    text-align: center;
+  }
+  h3 {
+    font-size: 40px ;
+    font-family: sans-serif;
+    text-align: center;
+    float: right;
+    color: blue
+  }
+  body{
+    background-color: rebeccapurple;
+    font-family: sans-serif;
+    }
