@@ -11,6 +11,9 @@ h1 {
     text-align: center;
     float: right;
     color: blue
+h5{
+    color :rgba(170, 197, 19, 0.712);
+}
   }
   body{
     background-color: transparent;
@@ -25,9 +28,6 @@ h1 {
         background: #063647;
         
     }
-    .form(
-        float: center;
-    )
     a.nav-item {
         color: rgba(211, 236, 19, 0.712);
     }
@@ -38,5 +38,8 @@ h1 {
     .box {
         background-color: transparent;
         border: 2px solid rgba(7, 59, 79, 0.5);
+    }
+    form{
+        text-align: center;
     }
     @media screen and (max-width: 768px) 
